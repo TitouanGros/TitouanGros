@@ -11,7 +11,7 @@ Détails : Participation à la compétition BRATS 2022 où notre modèle a attei
 Description : Développement d’un modèle pour détecter et segmenter les lésions prostatiques en utilisant des techniques d'apprentissage semi-supervisé.
 Technologies : Python, PyTorch, Docker, Kubernetes
 Détails : Ce projet en collaboration avec GE Healthcare m’a permis de travailler sur des pipelines de traitement de données et de déployer le modèle en production.
-<img src="https://dt5vp8kor0orz.cloudfront.net/d5830635ad6944415a1851b21dd68c2c20f61e97/126-Figure3.16-1.png" alt="Segmentation Prostatique" width="500">
+<img src="https://prostatecancercenternyc.com/wp-content/uploads/2020/09/tesla-multiparametric-MRI.jpg" alt="Segmentation Prostatique" width="500">
 3. 🧬 Détection et segmentation de cancers du sein - TDSC-ABUS 2023
 Description : Projet de détection et de segmentation de cancers du sein dans le cadre de la compétition TDSC-ABUS, où mon équipe a été classée 3e.
 Technologies : Python, PyTorch
