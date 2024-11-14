@@ -23,7 +23,9 @@ Frameworks/Libraries : PyTorch, TensorFlow, Pandas, NumPy
 Outils : Docker, Git, Kubernetes, OpenCV
 
 👨‍🏫 Formation
+
 EPITA : Master en Intelligence Artificielle, 2019-2024
+
 Politechnika Krakowska : Programme en Data Science et Machine Learning, 2022
 
 🏆 Distinctions
@@ -31,6 +33,7 @@ TDSC-ABUS 2023 : 3e place pour la détection et classification de cancers du sei
 
 📫 Me Contacter
 Email : titouan.gros@epita.fr
+
 LinkedIn : Titouan Gros
 
 Merci d’avoir consulté mon portfolio ! N'hésitez pas à explorer mes projets et à me contacter pour toute question ou opportunité de collaboration. 🚀
