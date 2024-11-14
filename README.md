@@ -1,6 +1,7 @@
 👨‍💻 Titouan Gros - AI & Machine Learning Engineer
 Bienvenue sur mon portfolio GitHub ! Je suis Titouan Gros, ingénieur en intelligence artificielle, passionné par le développement de solutions IA, deep learning et machine learning pour répondre aux défis du monde réel. Pendant mes études à l’EPITA jusqu'à mes expériences professionnelles, j’ai travaillé sur divers projets d’IA appliquée, de la détection de cancers, en passant par la segmentation d’images médicales.
 
+
 📂 Mes Projets les plus marquants
 1. 🧠 Segmentation de la matière grise et la matière blanche cérébrales - iSeg2017
 Description : Projet de segmentation de tumeurs cérébrales utilisant un réseau de neurones convolutif de type U-Net.
@@ -20,10 +21,12 @@ Technologies : Python, PyTorch
 Détails : Utilisation de réseaux de neurones convolutifs avancés pour classifier et segmenter les images de mammographie.
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*DVtYTGpEVxtsOWcu560rLw.jpeg" alt="Détection Cancer du Sein" width="500">
 
+
 🛠️ Compétences Techniques
 Langages : Python, C++, C#, SQL, C, Java, Javascript
 Frameworks/Libraries : PyTorch, TensorFlow, Pandas, NumPy, scikit-learn, Matplotlib
 Outils : Docker, Git, Kubernetes, OpenCV
+
 
 👨‍🏫 Formation
 
@@ -31,9 +34,11 @@ EPITA : Master en Intelligence Artificielle, 2019-2024
 
 Politechnika Krakowska : Programme en Data Science et Machine Learning, 2022
 
+
 🏆 Distinctions
 
 TDSC-ABUS 2023 : 3e place pour la détection et classification de cancers du sein
+
 
 📫 Me Contacter
 
