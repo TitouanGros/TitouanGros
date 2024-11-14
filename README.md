@@ -32,5 +32,6 @@ TDSC-ABUS 2023 : 3e place pour la détection et classification de cancers du sei
 📫 Me Contacter
 Email : titouan.gros@epita.fr
 LinkedIn : Titouan Gros
+
 Merci d’avoir consulté mon portfolio ! N'hésitez pas à explorer mes projets et à me contacter pour toute question ou opportunité de collaboration. 🚀
 
